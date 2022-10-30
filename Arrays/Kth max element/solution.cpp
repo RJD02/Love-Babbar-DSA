@@ -1,3 +1,6 @@
+// TC: O(k * log(n)) == O(log(n))
+// SC: O(n)
+
 #include <bits/stdc++.h>
 using namespace std;
 
