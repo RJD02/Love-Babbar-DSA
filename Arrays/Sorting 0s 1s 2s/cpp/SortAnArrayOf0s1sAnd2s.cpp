@@ -1,3 +1,4 @@
+//Tried in time complexity O(N)
 #include<bits/stdc++.h>
 using namespace std;
 class Solution
